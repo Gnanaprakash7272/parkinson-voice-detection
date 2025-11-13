@@ -88,9 +88,7 @@ hacksphere/
 This is an **educational and research tool**, not a medical diagnostic application.  
 Always consult a qualified healthcare professional for medical advice.
 
-## 👨‍💻 Author
 
-Built for CSA Hackathon | First Year Student | 2025
 
 ## 📝 License
 
