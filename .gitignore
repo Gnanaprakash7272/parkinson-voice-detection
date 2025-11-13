@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.sqlite3
+*.pyc
+
+# Data and audio
+*.wav
+sample_data/
+test_audio.wav
+temp_audio.wav
+
+# Model (comment out if you want to track it)
+parkinson_model.pkl
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
